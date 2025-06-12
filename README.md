@@ -1,5 +1,3 @@
-Here is a professional and descriptive GitHub repository name and a complete `README.md` file for your Flutter image gallery project:
-
 ---
 
 ### 📁 **Repository Name**
