@@ -7,7 +7,7 @@ Here is a professional and descriptive GitHub repository name and a complete `RE
 ```
 flutter-image-gallery-app
 ```
-# ** Github Url: **
+# Github Url: 
 ```
 https://github.com/Sivatech24/flutter-image-gallery-app.git
 ```
