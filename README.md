@@ -93,7 +93,7 @@ lib/
 
 ## 📃 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache License 2.0]([https://github.com/Sivatech24/flutter-image-gallery-app/blob/2594c2453d6e5d0b4c1d1572dea3429264ca0116/LICENSE.txt]).
 
 ---
 
