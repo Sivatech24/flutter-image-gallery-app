@@ -1,5 +1,3 @@
----
-
 ### 📁 **Repository Name**
 
 ```
