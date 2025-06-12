@@ -59,7 +59,7 @@ dependencies:
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/flutter-image-gallery-app.git](https://github.com/Sivatech24/flutter-image-gallery-app.git)
+git clone https://github.com/your-username/flutter-image-gallery-app.git
 cd flutter-image-gallery-app
 ```
 
