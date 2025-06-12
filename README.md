@@ -102,6 +102,3 @@ This project is licensed under the [Apache License 2.0]([https://github.com/Siva
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
 
 ---
-
-Let me know if you'd like me to create placeholder files (like `gmain.dart`, `home_page.dart`, `image_detail_page.dart`) or if you're using a specific image API like Unsplash or Pexels — I can help tailor the README accordingly.
-```
